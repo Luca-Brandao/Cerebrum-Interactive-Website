@@ -1,3 +1,5 @@
+> This development stage is now part of [Cerebrum-Course-Platform](https://github.com/Luca-Brandao/Cerebrum-Course-Platform). Use the [SS2 source and setup guide](https://github.com/Luca-Brandao/Cerebrum-Course-Platform/tree/main/ss2) there. This repository is retained as a historical snapshot.
+
 # Cerebrum: Interactive Website
 
 A JavaScript-enhanced four-page website advertising fictional online IT courses. This coursework stage focuses on client-side interaction and form validation.
